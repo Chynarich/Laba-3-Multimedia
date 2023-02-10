@@ -1,6 +1,7 @@
 import './App.css';
 import './css/main.css';
 import './css/bootstrap.min.css';
+
 import Header from './components/Header';
 import Year from './components/Year';
 import CompanyCom from './components/CompanyCom.jsx';
