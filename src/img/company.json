@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "image": "https://sun9-west.userapi.com/sun9-63/s/v1/ig2/Ne7lTcblvFtoPXgvniRx3VQB5Z2PZ0HrWVmJZzQv12xt2YLcuU4kwTJqrr7RwWOcTFLO2vVIUGdefTh8F3DguOkO.jpg?size=2191x781&quality=96&type=album",
+        "title": "kodak",
+        "width": "200",
+        "height": "72"
+    },
+
+    {
+        "id": 1,
+        "image": "https://sun1.userapi.com/sun1-56/s/v1/ig2/JUZZIf_2L9YyXzL8mp8XG7xR3WztqlI1hTifp9a5N4R2sZaivyRPxz0nJoAil7hpDt-mI27uQhC6U6mk4coZKMju.jpg?size=1800x1200&quality=96&type=album",
+        "title": "FujiFilm",
+        "width": "137",
+        "height": "90"
+    },
+    {
+        "id": 2,
+        "image": "https://sun1.userapi.com/sun1-23/s/v1/ig2/R5Btj8vdGrsyxV6r0UO7zBKWhvnxKhL7fw-4gEL94_qDzBbPzFlAY8hAwyXxgkUTmNx6u3JhjwfvQK9asghJl-kW.jpg?size=1024x1024&quality=96&type=album",
+        "title": "Fomapan",
+        "width": "104",
+        "height": "104"
+    }
+]
