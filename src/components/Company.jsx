@@ -7,7 +7,7 @@ function Company (props) {
             <p className='company__name'>
               {props.title}
             </p>
-            <button>
+            <button className="more-button">
               Подробнее -{'>'}
             </button>
           </div>

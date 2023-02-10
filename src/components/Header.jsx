@@ -1,5 +1,4 @@
 import '../css/main.css';
-import '../css/bootstrap.min.css';
 import logoPng from '../img/logo.PNG';
 import glassSvg from '../img/glass.svg';
 import arrowSvg from '../img/arrow.svg';
@@ -18,7 +17,7 @@ function Header() {
                     </div>
                     <div className="header__menu-ul col-7">
                         <ul className="d-flex justify-content-between">
-                            <li><button href='#'>О фирме</button></li>
+                            <li><button className='border-0'>О фирме</button></li>
                             <li><button>Товары</button></li>
                             <li><button>Контактная информация</button></li>
                         </ul>

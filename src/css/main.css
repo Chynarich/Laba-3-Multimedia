@@ -227,13 +227,14 @@ footer
 
 .footer__block-tilte
 {
-    font-size: 25px;
+    font-size: 21px;
     font-weight: bold;
+    color: #fff !important;
 }
 
 .footer__names
 {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .footer__block div button:hover
@@ -241,7 +242,19 @@ footer
     color: #e1c21e;
 }
 
-.footer__block-1 button
+.footer__block div button
 {
     text-align: left; 
+    margin-bottom: 8px;
+}
+
+.footer__block div
+{
+    width: 400px;
+    
+}
+
+.more-button:hover
+{
+    color: #000;
 }
