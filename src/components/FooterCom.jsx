@@ -12,6 +12,8 @@ function FooterCom()
                         <Footer key={obj.id} {...obj}/>
                 ))}
           </div>
+          <div className='footer-line'></div>
+          <p className='footer-date'>2019-2022</p>
         </div>
       </footer>   
     )

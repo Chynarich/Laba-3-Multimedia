@@ -217,7 +217,7 @@ footer
 {
     background: #000;
     padding-top: 55px;
-    padding-bottom: 45px;
+    padding-bottom: 20px;
 }
 
 .footer__block
@@ -257,4 +257,18 @@ footer
 .more-button:hover
 {
     color: #000;
+}
+
+.footer-line
+{
+    color: #424141;
+    margin-top: 45px;
+    border-top: 1px solid;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.footer-date{
+    color: #fff;
+    font-size: 16px;
 }
